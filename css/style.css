@@ -1696,10 +1696,11 @@ footer .footer .content > div .image {
 .left-block__alert {
   color: red;
   font-size: 14px;
-  margin-top: 20px;
+  margin-top: 150px;
   text-align: center;
   display: none;
   max-width: 100px;
+  position: absolute;
 }
 
 .title-filter {
