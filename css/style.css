@@ -1829,6 +1829,12 @@ footer .footer .content > div .image {
             flex-direction: column;
   }
 
+.left-block__alert {
+
+  margin-top: 75px;
+
+}
+	
   .main-block-movie {
     width: 100%;
   }
