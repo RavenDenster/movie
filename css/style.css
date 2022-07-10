@@ -1882,6 +1882,7 @@ footer .footer .content > div .image {
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
+	  margin-top: 15px;
   }
 
   .left-block__logo {
